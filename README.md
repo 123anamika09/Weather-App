@@ -10,5 +10,5 @@ A simple and responsive weather application built using React.
 - Clean and user-friendly interface
 
 ## Project setup
-npm install
-npm run dev
+- npm install
+- npm run dev
