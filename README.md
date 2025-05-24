@@ -9,4 +9,3 @@ A simple and responsive weather application built using React.
 - Get weather description and how it feels like
 - Clean and user-friendly interface
 
-Made with 💻 by Anamika.
